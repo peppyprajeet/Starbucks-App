@@ -1,2 +1,2 @@
 # Starbucks-App
-An android app for Udacity Course Project 1
+An android app for Udacity Intro to Programming Nanodegree Course, under Extra-Curricular Android App
